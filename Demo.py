@@ -6,3 +6,4 @@ st.image("https://th.bing.com/th/id/OIP.eZk5ARN29UZ1pOgVsmSixAHaFj?w=233&h=180&c
 st.write("-White cat")
 st.image("./giphy.gif")
 st.image("./white cat.jpg")  
+ 
