@@ -1,5 +1,4 @@
 import streamlit as st
-from PIL import image
 st.set_page_config(page_title = 'cats')
 st.markdown("## Types of cats")
 image.load_img("C:\movie\persian cat.jpg")
